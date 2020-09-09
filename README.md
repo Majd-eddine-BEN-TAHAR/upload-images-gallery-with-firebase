@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## For live preview visit : [upload-images-gallery-with-firebase](https://majd-eddine-ben-tahar.github.io/upload-images-gallery-with-firebase/)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [tailwindCss](https://tailwindcss.com/).
+
+### 1 - to install all dependencies run : `npm i`
+
+### 2 - before you start run  `npm run build:css` : to genrate css styles
 
 ## Available Scripts
 
