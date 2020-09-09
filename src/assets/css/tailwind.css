@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Noto Serif";
+}
+:root {
+  --primary: #efb6b2;
+  --secondary: #4e4e4e;
+  --error: #ff4a4a;
+}
+
+.color-primary {
+  color: var(--primary);
+}
+.color-secondary {
+  color: var(--secondary);
+}
+.color-error {
+  color: var(--error);
+}
+
+.hideBackdrop {
+  opacity: 0 !important;
+  transition: 300ms !important;
+}
+
+.noo-underline {
+  text-decoration: none !important;
+}
