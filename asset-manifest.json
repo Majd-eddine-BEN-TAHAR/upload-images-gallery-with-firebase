@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/upload-images-gallery-with-firebase/static/css/main.35866bab.chunk.css",
+    "main.js": "/upload-images-gallery-with-firebase/static/js/main.e26fd36f.chunk.js",
+    "main.js.map": "/upload-images-gallery-with-firebase/static/js/main.e26fd36f.chunk.js.map",
+    "runtime-main.js": "/upload-images-gallery-with-firebase/static/js/runtime-main.a89123d6.js",
+    "runtime-main.js.map": "/upload-images-gallery-with-firebase/static/js/runtime-main.a89123d6.js.map",
+    "static/js/2.96034329.chunk.js": "/upload-images-gallery-with-firebase/static/js/2.96034329.chunk.js",
+    "static/js/2.96034329.chunk.js.map": "/upload-images-gallery-with-firebase/static/js/2.96034329.chunk.js.map",
+    "index.html": "/upload-images-gallery-with-firebase/index.html",
+    "precache-manifest.24fd68a03facee99e7cd7f6e1929b877.js": "/upload-images-gallery-with-firebase/precache-manifest.24fd68a03facee99e7cd7f6e1929b877.js",
+    "service-worker.js": "/upload-images-gallery-with-firebase/service-worker.js",
+    "static/css/main.35866bab.chunk.css.map": "/upload-images-gallery-with-firebase/static/css/main.35866bab.chunk.css.map",
+    "static/js/2.96034329.chunk.js.LICENSE.txt": "/upload-images-gallery-with-firebase/static/js/2.96034329.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a89123d6.js",
+    "static/js/2.96034329.chunk.js",
+    "static/css/main.35866bab.chunk.css",
+    "static/js/main.e26fd36f.chunk.js"
+  ]
+}
